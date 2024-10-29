@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start":"node eventStreamAi.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "openai": "^4.68.4",
+    "url": "^0.11.3"
+  }
+}
